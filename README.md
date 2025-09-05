@@ -1,6 +1,6 @@
 # 📚 Meus Exercícios de JavaScript
 
-Este repositório contém meus primeiros exercícios de **JavaScript** aplicados no **frontend**.  
+Este repositório contém meus exercícios de **JavaScript** aplicados no **frontend**.  
 Cada exercício está organizado em uma pasta separada, contendo um `index.html` e um `script.js`.  
 
 O objetivo é praticar conceitos fundamentais de **Programação Orientada a Objetos** e **funções em JavaScript**, usando exemplos visuais no navegador.  
